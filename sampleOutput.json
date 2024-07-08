@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Ben Golliver",
+        "title": "Luka Doncic, Mavericks dodge Finals sweep by blowing out Celtics - The Washington Post",
+        "description": "Doncic scores 29 points in only 33 minutes in a game that saw most key players on the bench by midway through the fourth quarter.",
+        "url": "https://www.washingtonpost.com/sports/2024/06/14/celtics-mavericks-luka-doncic-nba-finals/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4YQ54EQDFCT7NYBHWV7PLE2IA_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-06-15T10:30:27Z",
+        "content": "DALLAS Kyrie Irving promised that the Dallas Mavericks, faced with the prospect of an unexpected sweep at the hands of the Boston Celtics, would bring out the bazooka and shoot our shots with their s… [+5658 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lauren Said-Moorhouse, Billy Stockwell",
+        "title": "Catherine, Princess of Wales attends King’s birthday celebration after revealing ‘good progress’ in cancer treatment - CNN",
+        "description": "Catherine, Princess of Wales has arrived at Buckingham Palace for Trooping the Colour - the King’s official birthday parade - in what will be her first public appearance since revealing her cancer diagnosis.",
+        "url": "https://www.cnn.com/2024/06/15/uk/trooping-the-colour-princess-kate-intl-scli-gbr/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01j0dpdhvjsyv4847he4ktbwpy.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-15T10:06:00Z",
+        "content": "Catherine, Princess of Wales has made her first public appearance since being diagnosed with cancer, joining other royals in London for Trooping the Colour, the Kings official birthday parade.\r\nThe P… [+3831 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "John Fritze, Tierney Sneed",
+        "title": "Supreme Court’s abortion pill ruling puts new focus on conservative Trump judge in Texas - CNN",
+        "description": "The Supreme Court’s decision this week rebuffing an effort to restrict access to mifepristone is unlikely to be the final word on the abortion pill.",
+        "url": "https://www.cnn.com/2024/06/15/politics/abortion-judge-matthew-kacsmaryk-supreme-court-mifepristone/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231212140430-01-anti-abortion-protesters-0421.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-15T08:00:00Z",
+        "content": "The Supreme Courts decision this week rebuffing an effort to restrict access to mifepristone is unlikely to be the final word on the abortion pill and the next person to speak will almost certainly b… [+8325 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Las Vegas shooting survivors stunned by Supreme Court gun ruling - BBC.com",
+        "description": "One survivor told the BBC the bump stocks decision was \"a slap in the face\", but others had mixed feelings.",
+        "url": "https://www.bbc.com/news/articles/c033d532354o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1365/live/424fb0e0-2a94-11ef-a392-bbae7f2e2112.jpg",
+        "publishedAt": "2024-06-15T06:56:58Z",
+        "content": "By Kayla Epstein, BBC News\r\nOn 1 October 2017, Heather Gooze was serving drinks at the Route 91 music festival in Las Vegas when concert-goers began running into her bar, screaming and covered in blo… [+4819 chars]"
+      }
+    ]
+    }
+  
